@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/seismicactivity/static/js/main.900550d8.js",
+    "static/js/787.ab09f1e8.chunk.js": "/seismicactivity/static/js/787.ab09f1e8.chunk.js",
+    "index.html": "/seismicactivity/index.html",
+    "main.900550d8.js.map": "/seismicactivity/static/js/main.900550d8.js.map",
+    "787.ab09f1e8.chunk.js.map": "/seismicactivity/static/js/787.ab09f1e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.900550d8.js"
+  ]
+}
